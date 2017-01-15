@@ -1,0 +1,3 @@
+sudo dfu-programmer atmega16u2 erase
+sudo dfu-programmer atmega16u2 flash --suppress-bootloader-mem Arduino-usbserial-atmega16u2-Uno-Rev3.hex
+sudo dfu-programmer atmega16u2 reset
