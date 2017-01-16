@@ -2,15 +2,17 @@
 
 OpenPad is an input device for your feet, meant to be used with [Stepmania](https://github.com/stepmania/stepmania). The goal of the project is to provide all the information and tools to build your own custom pad. Currently, OpenPad is using load cell sensors in an attempt to improve on the original arcade's rubber sensors, which often need to be replaced.
 
-<img src="/images/Surface.jpg" width="600">
-<img src="/images/PIU0.jpg" width="600">
+<img src="/Images/Surface.jpg" width="600">
+<img src="/Images/PIU0.jpg" width="600">
 
 #Sample Videos
 
 Here are a couple videos that show previously built pads in action:
 
-[Video 1](https://www.youtube.com/watch?v=cm8mnnq7L38)
-[Video 2](https://goo.gl/photos/KiCTnwc1QsV53fR2A)
+[Video 1](https://goo.gl/photos/KiCTnwc1QsV53fR2A)
+
+[Video 2](https://www.youtube.com/watch?v=cm8mnnq7L38)
+
 
 #Sensor
 
