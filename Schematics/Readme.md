@@ -4,7 +4,7 @@
 
 You can use a breadboard, solderable breadboard, or build your own PCB!
 
-<img src="wiringDiagram.png" align="middle">
+<img src="/Schematics/Wiring/wiringDiagram.png">
 
 [INA125P Reference Guide](http://www.ti.com/lit/ds/symlink/ina125.pdf)
 
