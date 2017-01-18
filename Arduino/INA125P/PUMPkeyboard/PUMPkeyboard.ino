@@ -1,8 +1,8 @@
 const int SENSORNUM = 6;
 //(skip)[2]
-float press[SENSORNUM] = {20.0, 28.0, 0.0, 38.0, 15.0, 15.0};
+float press[SENSORNUM] = {40.0, 36.0, 0.0, 40.0, 36.0, 40.0};
 //{35.0, 40.0, 3.0, 50.0, 20.0, 20.0}
-float releaseAmt = 4.0;
+float releaseAmt = 6.0;
 float min[SENSORNUM], release[SENSORNUM];
 float current;
 int i, tmp;

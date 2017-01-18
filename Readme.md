@@ -2,23 +2,23 @@
 
 OpenPad is an input device for your feet, meant to be used with [Stepmania](https://github.com/stepmania/stepmania). The goal of the project is to provide all the information and tools to build your own custom pad. Currently, OpenPad is using load cell sensors in an attempt to improve on the original arcade's rubber sensors, which often need to be replaced.
 
-<img src="/Images/Surface.jpg" width="600">
-<img src="/Images/PIU0.jpg" width="600">
+<img src="/Images/Surface.jpg" width="600" align="middle">
+<img src="/Images/PIU0.jpg" width="600" align="middle">
 
 #Sample Videos
 
 Here are a couple videos that show previously built pads in action:
 
-[Video 1](https://goo.gl/photos/KiCTnwc1QsV53fR2A)
+[PIU Pad](https://www.youtube.com/watch?v=-PtqCtwOBeI)
 
-[Video 2](https://www.youtube.com/watch?v=cm8mnnq7L38)
+[ITG Pad](https://www.youtube.com/watch?v=gNsw73bATUQ)
 
 
 #Sensor
 
 Load cells have proved exceptional sensors for dance pads for these reasons:
 
-* Rated to withstand an arbitrarily large amount of weight. I've the 200kg ones.
+* Rated to withstand an arbitrarily large amount of weight. I've used the 200kg ones.
 * Only 1, max 2 required per sensing surface.
 * Have not broken in the year tested.
 * The data they provide is analog, and as such you can set the actuation force required through software
