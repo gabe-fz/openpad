@@ -5,7 +5,7 @@ OpenPad is an input device for your feet, meant to be used with [Stepmania](http
 <img src="/Images/Surface.jpg" width="600">
 <img src="/Images/PIU0.jpg" width="600">
 
-#Sample Videos
+# Sample Videos
 
 Here are a couple videos that show previously built pads in action:
 
@@ -14,7 +14,7 @@ Here are a couple videos that show previously built pads in action:
 [ITG Pad](https://www.youtube.com/watch?v=gNsw73bATUQ)
 
 
-#Sensor
+# Sensor
 
 Load cells have proved exceptional sensors for dance pads for these reasons:
 
@@ -28,13 +28,13 @@ It does have some disadvantages:
 * Since they must be screwed from the top and bottom, mounting holes must be precise
 * Adjusting the hardware can be very tricky and time consuming, in order to maximize the readings from the sensors
 
-#Project Structure
+# Project Structure
 
-#####Arduino
+##### Arduino
 This directory provides all the Arduino firmware and sketches so that your pad can act as an USB HID keyboard. Long gone are the days of having to dismantle your MadCatz PS2 controller.
 
-#####Schematics
+##### Schematics
 Here you will find 3D models, renders, and wiring schematics.
 
-#####Images
+##### Images
 Pictures of previous pads that have been built.
